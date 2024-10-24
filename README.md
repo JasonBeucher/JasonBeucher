@@ -43,19 +43,19 @@ Passionate developer crafting digital experiences that make a difference. I beli
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/jason-beucher/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/yourusername">
+  <a href="https://www.codewars.com/users/Spookiss">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" alt="Codewars" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codingame.com/profile/yourusername">
+  <a href="https://www.codingame.com/profile/46a3b3392f486ab9798fc51b1a903b673412965">
     <img src="https://img.shields.io/badge/CodinGame-008C4A?style=flat&logo=codingame&logoColor=white" alt="CodinGame" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.root-me.org/?page=profile&id=YourID">
+  <a href="https://www.root-me.org/Spookiss">
     <img src="https://img.shields.io/badge/RootMe-3B6F7E?style=flat&logo=rootme&logoColor=white" alt="RootMe" />
   </a>
 
