@@ -32,7 +32,7 @@ Passionate developer crafting digital experiences that make a difference. I beli
       <p align="center">
         <img src="OwnTube.svg" alt="OwnTube" width="50%"/>
         <p align="center">
-          Plateforme de vidéos open source et auto-hébergée, alternative à YouTube réaliser avec Vue.
+          Open source, self-hosted video platform, alternative to YouTube, realized with Vue.
         </p>
       </p>
     </td>
